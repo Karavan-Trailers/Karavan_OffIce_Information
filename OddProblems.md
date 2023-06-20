@@ -12,4 +12,4 @@ Prints coming out at an incorrect size
 
 There was a problem with adobie reader wanting to print at a parger size that the paper we wanted to print on.  The solution was to go to the 'Page Sizing & Handling' section of the print dialog and unselect the 'Choose paper source by PDF page size' option.
  
-![Prints coming out at an incorrect size](Screenshot 2023-06-19 at 1.46.15 PM.png)
+![Prints coming out at an incorrect size](https://github.com/Karavan-Trailers/Karavan_OffIce_Information/blob/main/Screenshot%202023-06-19%20at%201.46.15%20PM.png)
